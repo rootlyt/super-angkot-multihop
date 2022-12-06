@@ -1,0 +1,5 @@
+var message = msg.payload;
+msg.payload = {
+message.message,
+}
+return msg;
