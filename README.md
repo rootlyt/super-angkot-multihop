@@ -4,6 +4,8 @@
 <br />![image](https://user-images.githubusercontent.com/72824435/206051265-3add5691-1070-4846-8666-d8c9bcc5a173.png)
 ![image](https://user-images.githubusercontent.com/72824435/206051272-e332e763-ec56-4caf-9358-c80440da9d7c.png)
 ![image](https://user-images.githubusercontent.com/72824435/206051309-7574eddd-d00a-43f5-b080-691238f98a1f.png)
+![image](https://user-images.githubusercontent.com/72824435/206051487-0edd1c5b-6a7a-4937-a503-4bd7f0fa3cce.png)
+
 
 <br />Abstract
 <br />Angkutan kota is public transportation that can carry out mobility at affordable prices, but angkot operations generally do not have special infrastructure and angkot does not have a communication system or notification about the state of the next stop, the behavior of angkot drivers often stops at inappropriate places to wait for passengers causing inefficiency on this transport. It is different with Bus Rapid Transit, which has infrastructure and communication systems but cannot reach certain places that angkot can reach. The purpose of this research is to design, adapt, test, and find out whether the adaptation of the concept of Bus Rapid Transit can be applied to angkot.
