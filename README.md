@@ -2,6 +2,9 @@
 ## Prototype of Angkot Communication System for optimizing Urban Transportation using multi-hop routing method based on Notification System
 <br />On my final year, I’ve made a thesis titled “Prototype of Angkot Communication System for optimizing Urban Transportation using multi-hop routing method based on Notification System”. ( https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/10545 ) 
 <br />![image](https://user-images.githubusercontent.com/72824435/206051265-3add5691-1070-4846-8666-d8c9bcc5a173.png)
+![image](https://user-images.githubusercontent.com/72824435/206606255-bbad5c72-804a-40e6-97a4-4ab271436cf2.png)
+![image](https://user-images.githubusercontent.com/72824435/206606273-7cd36cbe-df82-465a-8b75-e059e37b56f2.png)
+![image](https://user-images.githubusercontent.com/72824435/206606283-10a07527-8856-4321-b7fa-22cbd437317c.png)
 ![image](https://user-images.githubusercontent.com/72824435/206051272-e332e763-ec56-4caf-9358-c80440da9d7c.png)
 ![image](https://user-images.githubusercontent.com/72824435/206051309-7574eddd-d00a-43f5-b080-691238f98a1f.png)
 <br />![image](https://user-images.githubusercontent.com/72824435/206051788-cdb0c2ed-9bf2-45f3-8ee5-3b7e993a039b.png)
